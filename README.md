@@ -1,2 +1,2 @@
-# C-digo-JavaScript
+# Codigo-JavaScript
 Projeto - Lâmpada(Curso)
